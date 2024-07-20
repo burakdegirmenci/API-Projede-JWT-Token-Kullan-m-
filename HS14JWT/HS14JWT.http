@@ -1,0 +1,6 @@
+@HS14JWT_HostAddress = http://localhost:5199
+
+GET {{HS14JWT_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
